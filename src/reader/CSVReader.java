@@ -20,16 +20,19 @@ public class CSVReader {
         try {
 
             br = new BufferedReader(new FileReader(csvFile));
+            int c=0;
             while ((line = br.readLine()) != null) {
 
                 // use comma as separator
                 String[] separado = line.split(cvsSplitBy);
                 lista.add(separado[1]);
                 
+                String[] catSep = lista.get(c).split(",");
+                for (int i = 0; i < catSep.length; i++) {                	
+					System.out.println(catSep[i]);
+				}
+                c++;
             }
-            for (int i = 0; i < lista.size(); i++) {
-				System.out.println(lista.get(i));
-			}
 
         } catch (FileNotFoundException e) {
             e.printStackTrace();

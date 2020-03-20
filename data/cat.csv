@@ -1,0 +1,271 @@
+1;5,22,5,10,12,19,23,34,37,55,75;Economía_con_Agropecuario y agrícola
+2;2,7,19,26,42,18,23,59,81;Infraestructura_con_Vivienda
+3;1,4,28,1,10,11,12,20,21,22,29;Justicia_con_Familia
+4;13,66,45;Celebraciones, honores y monumentos_con_----
+5;13,66,10,33;Celebraciones, honores y monumentos_con_Desastres y calamidades
+6;2,12,19,7,13,16,18,19,24,66;Educación, cultura, ciencia y tecnología_con_Asuntos administrativos
+7;5,10,12,19,23,34,37,55,75,5,23,26,41,42;Economía_con_Minas y energía
+8;1,4,10,16,18,21,24,35,49,61,19,40,68,71,76;Seguridad Social y salud_con_Derechos Fundamentales
+9;1,4,10,16,18,21,24,35,49,61,19,40,68,71,76;Derechos Fundamentales_con_Seguridad Social y salud
+10;5,10,12,19,23,34,37,55,75,26,41;Medio Ambiente_con_Economía
+11;1,18,21,30,43,13,16;Recreación y deporte_con_Mujer
+12;2,12,19,10,15,29,32,33,53,70;Seguridad, defensa y fuerza pública_con_Asuntos administrativos
+13;1,10,11,12,20,21,22,29,10,15,29,32,33,53,70;Justicia_con_Seguridad, defensa y fuerza pública
+14;2,12,19,13,23,34,39,42;Comercio, industria y turismo_con_Asuntos administrativos
+15;5,22,1,10,11,12,20,21,22,29;Justicia_con_Agropecuario y agrícola
+16;2,12,19,22,26,2,12,19;Administración pública_con_Asuntos administrativos
+17;2,12,19,22,26,11,12,15,23,25,29,32,74;Corrupción_con_Administración pública
+18;5,10,12,19,23,34,37,55,75,5,23,26,41,42;Minas y energía_con_Economía
+19;2,7,19,26,42,18,19,31,78;Tránsito y transporte_con_Infraestructura
+20;5,10,12,19,23,34,37,55,75,10,19,20,31,47,53,58;Economía_con_Ordenamiento Territorial
+21;2,12,19,13,16;Recreación y deporte_con_Asuntos administrativos
+22;2,12,19,1,4,28;Familia_con_Asuntos administrativos
+23;2,12,19,11,16,25,46,48;Notariado y registro_con_Asuntos administrativos
+24;5,22,2,12,19;Agropecuario y agrícola_con_Asuntos administrativos
+25;2,12,19,22,26,2,12,19;Asuntos administrativos_con_Administración pública
+26;7,19,26,1,4,10,16,18,21,24,35,49,61;Comunicaciones, medios y tecnologías de la información_con_Derechos Fundamentales
+27;5,10,12,19,23,34,37,55,75,18,19,20,34,37,39;Laboral_con_Economía
+28;5,22,5,10,12,19,23,34,37,55,75;Agropecuario y agrícola_con_Economía
+29;18,19,20,34,37,39,19,40,68,71,76;Seguridad Social y salud_con_Laboral
+30;5,10,12,19,23,34,37,55,75,19,40,68,71,76;Seguridad Social y salud_con_Economía
+31;1,4,10,16,18,21,24,35,49,61,2,18,23,26,72;Servicios Públicos_con_Derechos Fundamentales
+32;1,10,11,12,20,21,22,29,18,19,31,78;Justicia_con_Tránsito y transporte
+33;2,12,19,5,10,12,19,23,34,37,55,75;Economía_con_Asuntos administrativos
+34;2,12,19,7,19,26;Comunicaciones, medios y tecnologías de la información_con_Asuntos administrativos
+35;2,12,19,11,48,65;Política Internacional_con_Asuntos administrativos
+36;12,19,20,23,34,39,55,5,10,12,19,23,34,37,55,75;Economía_con_Bienestar y pobreza
+37;1,4,10,16,18,21,24,35,49,61,7,13,16,18,19,24,66;Educación, cultura, ciencia y tecnología_con_Derechos Fundamentales
+38;11,16,48,82,62;Rama Ejecutiva_con_Organización Electoral y elecciones
+39;2,12,19,18,23,59,81;Vivienda_con_Asuntos administrativos
+40;2,12,19,26,41;Medio Ambiente_con_Asuntos administrativos
+41;12,19,20,23,34,39,55,19,40,68,71,76;Seguridad Social y salud_con_Bienestar y pobreza
+42;13,23,34,39,42,10,19,20,31,47,53,58;Ordenamiento Territorial_con_Comercio, industria y turismo
+43;11,16,48,82,10,16,21,39,46,49,50,51,67;Organización Electoral y elecciones_con_Participación ciudadana
+44;2,12,19,19,40,68,71,76;Seguridad Social y salud_con_Asuntos administrativos
+45;18,19,20,34,37,39,19,40,68,71,76;Laboral_con_Seguridad Social y salud
+46;5,10,12,19,23,34,37,55,75,18,19,20,34,37,39;Economía_con_Laboral
+47;13,23,34,39,42,11,48,65;Política Internacional_con_Comercio, industria y turismo
+48;7,13,16,18,19,24,66,11,48,65;Política Internacional_con_Educación, cultura, ciencia y tecnología
+49;5,22,13,66;Celebraciones, honores y monumentos_con_Agropecuario y agrícola
+50;5,10,12,19,23,34,37,55,75,11,48,65;Política Internacional_con_Economía
+51;12,19,20,23,34,39,55,11,48,65;Política Internacional_con_Bienestar y pobreza
+52;2,12,19,18,19,31,78;Tránsito y transporte_con_Asuntos administrativos
+53;5,10,12,19,23,34,37,55,75,7,13,16,18,19,24,66;Educación, cultura, ciencia y tecnología_con_Economía
+54;62,11,48,64;Rama Ejecutiva_con_Rama Legislativa
+55;12,19,20,23,34,39,55,18,19,20,34,37,39;Laboral_con_Bienestar y pobreza
+56;7,13,16,18,19,24,66,19,40,68,71,76;Seguridad Social y salud_con_Educación, cultura, ciencia y tecnología
+57;1,10,11,12,20,21,22,29,18,19,20,34,37,39;Justicia_con_Laboral
+58;2,12,19,11,48,64;Rama Legislativa_con_Asuntos administrativos
+59;19,40,68,71,76,10,15,29,32,33,53,70;Seguridad, defensa y fuerza pública_con_Seguridad Social y salud
+60;1,4,10,16,18,21,24,35,49,61,1,10,11,12,20,21,22,29;Justicia_con_Derechos Fundamentales
+61;1,10,11,12,20,21,22,29,10,38,63;Justicia_con_Rama Judicial
+62;1,10,11,12,20,21,22,29,18,19,31,78;Tránsito y transporte_con_Justicia
+63;1,4,10,16,18,21,24,35,49,61,4,10,20,21,35,40,43;Minorías étnicas y sexuales_con_Derechos Fundamentales
+64;13,23,34,39,42,1,4,28;Comercio, industria y turismo_con_Familia
+65;12,19,20,23,34,39,55,5,10,12,19,23,34,37,55,75;Bienestar y pobreza_con_Economía
+66;1,4,28,18,19,20,34,37,39;Laboral_con_Familia
+67;2,7,19,26,42,1,10,11,12,20,21,22,29;Infraestructura_con_Justicia
+68;7,13,16,18,19,24,66,13,16;Recreación y deporte_con_Educación, cultura, ciencia y tecnología
+69;13,66,1,10,11,12,20,21,22,29;Justicia_con_Celebraciones, honores y monumentos
+70;1,4,10,16,18,21,24,35,49,61,11,48,65;Política Internacional_con_Derechos Humanos y DIH
+71;1,10,11,12,20,21,22,29,19,40,68,71,76;Seguridad Social y salud_con_Justicia
+72;13,66,7,13,16,18,19,24,66;Celebraciones, honores y monumentos_con_Educación, cultura, ciencia y tecnología
+73;10,33,5,10,12,19,23,34,37,55,75;Economía_con_Desastres y calamidades
+74;11,48,65,10,15,29,32,33,53,70;Política Internacional_con_Seguridad, defensa y fuerza pública
+75;23,39,19,40,68,71,76;Seguridad Social y salud_con_Profesiones
+76;13,66,11,12,15,23,25,29,32,74;Corrupción_con_Celebraciones, honores y monumentos
+77;10,15,20,32,33,40,53,77,79,80,11,48,65;Política Internacional_con_Conflicto armado
+78;1,10,11,12,20,21,22,29,11,48,65;Política Internacional_con_Justicia
+79;23,34,37,11,48,65;Política Internacional_con_Impuestos
+80;1,4,28,11,48,65;Política Internacional_con_Familia
+81;13,66,10,38,63;Celebraciones, honores y monumentos_con_Rama Judicial
+82;2,12,19,1,10,11,12,20,21,22,29;Justicia_con_Asuntos administrativos
+83;7,13,16,18,19,24,66,1,4,28;Educación, cultura, ciencia y tecnología_con_Familia
+84;5,10,12,19,23,34,37,55,75,1,10,11,12,20,21,22,29;Justicia_con_Economía
+85;7,13,16,18,19,24,66,13,16;Educación, cultura, ciencia y tecnología_con_Recreación y deporte
+86;13,66,4,10,20,21,35,40,43;Celebraciones, honores y monumentos_con_Minorías étnicas y sexuales
+87;1,10,11,12,20,21,22,29,1,18,21,30,43;Justicia_con_Mujer
+88;2,12,19,11,16,48,82;Organización Electoral y elecciones_con_Asuntos administrativos
+89;5,10,12,19,23,34,37,55,75,10,15,29,32,33,53,70;Seguridad, defensa y fuerza pública_con_Economía
+90;2,12,19,18,19,20,34,37,39;Asuntos administrativos_con_Laboral
+91;2,12,19,10,19,20,31,47,53,58;Ordenamiento Territorial_con_Asuntos administrativos
+92;13,66,2,7,19,26,42;Celebraciones, honores y monumentos_con_Infraestructura
+93;1,18,21,30,43,11,48,64;Mujer_con_Rama Legislativa
+94;10,33,11,48,65;Desastres y calamidades_con_Política Internacional
+95;5,22,11,48,65;Agropecuario y agrícola_con_Política Internacional
+96;7,13,16,18,19,24,66,11,48,65;Educación, cultura, ciencia y tecnología_con_Política Internacional
+97;5,10,12,19,23,34,37,55,75,1,4,28;Economía_con_Familia
+98;26,41,13,16;Recreación y deporte_con_Medio Ambiente
+99;1,4,28,19,40,68,71,76;Seguridad Social y salud_con_Familia
+100;10,16,21,39,46,49,50,51,67,11,48,64;Rama Legislativa_con_Participación ciudadana
+101;5,10,12,19,23,34,37,55,75,11,16,25,46,48;Notariado y registro_con_Economía
+102;5,22,1,4,10,16,18,21,24,35,49,61;Agropecuario y agrícola_con_Derechos Fundamentales
+103;11,16,48,82,11,20,25,40,48,49,50,51,73;Partidos y movimientos_con_Organización Electoral y elecciones
+104;7,13,16,18,19,24,66,18,19,20,34,37,39;Laboral_con_Educación, cultura, ciencia y tecnología
+105;12,19,20,23,34,39,55,7,13,16,18,19,24,66;Educación, cultura, ciencia y tecnología_con_Bienestar y pobreza
+106;13,66,12,23,34,37;Celebraciones, honores y monumentos_con_Presupuesto
+107;1,4,28,19,40,68,71,76;Familia_con_Seguridad Social y salud
+108;7,13,16,18,19,24,66,19,40,68,71,76;Educación, cultura, ciencia y tecnología_con_Seguridad Social y salud
+109;13,23,34,39,42,7,13,16,18,19,24,66;Comercio, industria y turismo_con_Educación, cultura, ciencia y tecnología
+110;2,12,19,62;Rama Ejecutiva_con_Asuntos administrativos
+111;23,39,19,40,68,71,76;Profesiones_con_Seguridad Social y salud
+112;19,40,68,71,76,10,15,29,32,33,53,70;Seguridad Social y salud_con_Seguridad, defensa y fuerza pública
+113;2,12,19,4,10,20,21,35,40,43;Minorías étnicas y sexuales_con_Asuntos administrativos
+114;1,4,28,10,16,21,39,46,49,50,51,67;Participación ciudadana_con_Familia
+115;2,12,19,11,48;Organismos de Control y Ministerio público_con_Asuntos administrativos
+116;26,41,11,48,65;Política Internacional_con_Medio Ambiente
+117;18,19,20,34,37,39,11,48,65;Política Internacional_con_Laboral
+118;5,22,11,48,65;Política Internacional_con_Agropecuario y agrícola
+119;13,66,26,41;Celebraciones, honores y monumentos_con_Medio Ambiente
+120;5,23,26,41,42,12,23,34,37;Presupuesto_con_Minas y energía
+121;1,4,10,16,18,21,24,35,49,61,7,13,16,18,19,24,66;Educación, cultura, ciencia y tecnología_con_Derechos Humanos y DIH
+122;7,19,26,11,48,65;Política Internacional_con_Comunicaciones, medios y tecnologías de la información
+123;1,4,10,16,18,21,24,35,49,61,11,48,65;Política Internacional_con_Derechos Fundamentales
+124;2,12,19,10,38,63;Rama Judicial_con_Asuntos administrativos
+125;2,12,19,23,39;Profesiones_con_Asuntos administrativos
+126;1,4,10,16,18,21,24,35,49,61,11,16,25,46,48;Notariado y registro_con_Derechos Fundamentales
+127;1,4,28,10,15,29,32,33,53,70;Familia_con_Seguridad, defensa y fuerza pública
+128;13,23,34,39,42,5,10,12,19,23,34,37,55,75;Economía_con_Comercio, industria y turismo
+129;4,10,20,21,35,40,43,19,40,68,71,76;Seguridad Social y salud_con_Minorías étnicas y sexuales
+130;11,48,64,19,40,68,71,76;Rama Legislativa_con_Seguridad Social y salud
+131;11,48,65,11,48,64;Rama Legislativa_con_Política Internacional
+132;1,4,10,16,18,21,24,35,49,61,11,48,64;Rama Legislativa_con_Derechos Fundamentales
+133;18,19,31,78,45;Tránsito y transporte_con_----
+134;1,4,10,16,18,21,24,35,49,61,10,15,29,32,33,53,70;Seguridad, defensa y fuerza pública_con_Derechos Fundamentales
+135;7,13,16,18,19,24,66,45;Educación, cultura, ciencia y tecnología_con_----
+136;26,41,45;Medio Ambiente_con_----
+137;1,10,11,12,20,21,22,29,45;Justicia_con_----
+138;5,10,12,19,23,34,37,55,75,10,16,21,39,46,49,50,51,67;Participación ciudadana_con_Economía
+139;2,12,19,10,33;Desastres y calamidades_con_Asuntos administrativos
+140;1,4,10,16,18,21,24,35,49,61,45;Derechos Fundamentales_con_----
+141;1,10,11,12,20,21,22,29,26,41;Medio Ambiente_con_Justicia
+142;5,10,12,19,23,34,37,55,75,18,23,59,81;Vivienda_con_Economía
+143;2,12,19,5,23,26,41,42;Minas y energía_con_Asuntos administrativos
+144;7,19,26,2,18,23,26,72;Servicios Públicos_con_Comunicaciones, medios y tecnologías de la información
+145;18,19,20,34,37,39,10,15,29,32,33,53,70;Laboral_con_Seguridad, defensa y fuerza pública
+146;11,48,11,48,64;Organismos de Control y Ministerio público_con_Rama Legislativa
+147;13,23,34,39,42,5,10,12,19,23,34,37,55,75;Comercio, industria y turismo_con_Economía
+148;1,10,11,12,20,21,22,29,10,15,29,32,33,53,70;Seguridad, defensa y fuerza pública_con_Justicia
+149;10,15,20,32,33,40,53,77,79,80,1,4,10,16,18,21,24,35,49,61;Conflicto armado_con_Derechos Humanos y DIH
+150;11,48,65,11,48,65;Política Internacional_con_Política Internacional
+151;18,19,20,34,37,39,62;Rama Ejecutiva_con_Laboral
+152;1,4,10,16,18,21,24,35,49,61,1,4,28;Familia_con_Derechos Fundamentales
+153;62,10,15,29,32,33,53,70;Seguridad, defensa y fuerza pública_con_Rama Ejecutiva
+154;5,22,10,19,20,35;Plan Nacional de Desarrollo_con_Agropecuario y agrícola
+155;23,34,37,10,15,29,32,33,53,70;Seguridad, defensa y fuerza pública_con_Impuestos
+156;23,39,45;Profesiones_con_----
+157;1,4,28,2,18,23,26,72;Servicios Públicos_con_Familia
+158;11,48,65,45;Política Internacional_con_----
+159;5,22,45;Agropecuario y agrícola_con_----
+160;2,12,19,22,26,18,19,31,78;Tránsito y transporte_con_Administración pública
+161;11,48,65,18,19,31,78;Política Internacional_con_Tránsito y transporte
+162;5,22,1,18,21,30,43;Mujer_con_Agropecuario y agrícola
+163;7,19,26,45;Comunicaciones, medios y tecnologías de la información_con_----
+164;5,10,12,19,23,34,37,55,75,45;Economía_con_----
+165;18,19,20,34,37,39,45;Laboral_con_----
+166;2,12,19,22,26,10,19,20,31,47,53,58;Administración pública_con_Ordenamiento Territorial
+167;19,40,68,71,76,18,19,31,78;Seguridad Social y salud_con_Tránsito y transporte
+168;23,39,10,15,29,32,33,53,70;Seguridad, defensa y fuerza pública_con_Profesiones
+169;1,4,28,11,16,25,46,48;Notariado y registro_con_Familia
+170;2,12,19,10,16,21,39,46,49,50,51,67;Participación ciudadana_con_Asuntos administrativos
+171;5,22,12,19,20,23,34,39,55;Bienestar y pobreza_con_Agropecuario y agrícola
+172;7,13,16,18,19,24,66,10,15,29,32,33,53,70;Seguridad, defensa y fuerza pública_con_Educación, cultura, ciencia y tecnología
+173;5,23,26,41,42,11,48,65;Política Internacional_con_Minas y energía
+174;1,4,10,16,18,21,24,35,49,61,1,10,11,12,20,21,22,29;Derechos Fundamentales_con_Justicia
+175;11,48,64,45;Rama Legislativa_con_----
+176;5,22,12,19,20,23,34,39,55;Agropecuario y agrícola_con_Bienestar y pobreza
+177;1,10,11,12,20,21,22,29,11,48,64;Rama Legislativa_con_Justicia
+178;26,41,18,19,31,78;Medio Ambiente_con_Tránsito y transporte
+179;19,40,68,71,76,45;Seguridad Social y salud_con_----
+180;11,12,15,23,25,29,32,74,11,20,25,40,48,49,50,51,73;Partidos y movimientos_con_Corrupción
+181;12,19,20,23,34,39,55,18,23,59,81;Vivienda_con_Bienestar y pobreza
+182;1,4,10,16,18,21,24,35,49,61,11,48,64;Derechos Humanos y DIH_con_Rama Legislativa
+183;1,18,21,30,43,19,40,68,71,76;Seguridad Social y salud_con_Mujer
+184;2,12,19,22,26,62;Rama Ejecutiva_con_Administración pública
+185;10,15,29,32,33,53,70,18,19,31,78;Tránsito y transporte_con_Seguridad, defensa y fuerza pública
+186;1,4,28,13,16;Familia_con_Recreación y deporte
+187;1,4,28,1,18,21,30,43;Familia_con_Mujer
+188;2,7,19,26,42,2,18,23,26,72;Infraestructura_con_Servicios Públicos
+189;7,19,26,13,18;Comunicaciones, medios y tecnologías de la información_con_Derechos de autor
+190;7,13,16,18,19,24,66,2,7,19,26,42;Educación, cultura, ciencia y tecnología_con_Infraestructura
+191;13,23,34,39,42,7,13,16,18,19,24,66;Educación, cultura, ciencia y tecnología_con_Comercio, industria y turismo
+192;19,40,68,71,76,18,19,31,78;Tránsito y transporte_con_Seguridad Social y salud
+193;11,16,48,82,11,20,25,40,48,49,50,51,73;Organización Electoral y elecciones_con_Partidos y movimientos
+194;2,12,19,22,26,10,19,20,31,47,53,58;Ordenamiento Territorial_con_Administración pública
+195;2,12,19,5,23,26,41,42;Asuntos administrativos_con_Minas y energía
+196;12,19,20,23,34,39,55,2,7,19,26,42;Bienestar y pobreza_con_Infraestructura
+197;2,12,19,10,16,21,39,46,49,50,51,67;Asuntos administrativos_con_Participación ciudadana
+198;2,12,19,45;Asuntos administrativos_con_----
+199;4,10,20,21,35,40,43,11,48,64;Minorías étnicas y sexuales_con_Rama Legislativa
+200;1,4,10,16,18,21,24,35,49,61,1,18,21,30,43;Derechos Fundamentales_con_Mujer
+201;7,13,16,18,19,24,66,23,39;Educación, cultura, ciencia y tecnología_con_Profesiones
+202;5,22,19,40,68,71,76;Agropecuario y agrícola_con_Seguridad Social y salud
+203;1,4,28,11,16,25,46,48;Familia_con_Notariado y registro
+204;2,7,19,26,42,10,15,29,32,33,53,70;Infraestructura_con_Seguridad, defensa y fuerza pública
+205;23,39,23,39;Profesiones_con_Profesiones
+206;1,4,10,16,18,21,24,35,49,61,10,15,29,32,33,53,70;Seguridad, defensa y fuerza pública_con_Derechos Humanos y DIH
+207;62,11,48,64;Rama Legislativa_con_Rama Ejecutiva
+208;12,19,20,23,34,39,55,1,4,10,16,18,21,24,35,49,61;Derechos Fundamentales_con_Bienestar y pobreza
+209;10,33,2,18,23,26,72;Servicios Públicos_con_Desastres y calamidades
+210;7,19,26,13,18;Derechos de autor_con_Comunicaciones, medios y tecnologías de la información
+211;2,12,19,22,26,11,16,25,46,48;Notariado y registro_con_Administración pública
+212;7,13,16,18,19,24,66,26,41;Educación, cultura, ciencia y tecnología_con_Medio Ambiente
+213;2,12,19,22,26,12,19,20,23,34,39,55;Administración pública_con_Bienestar y pobreza
+214;10,15,29,32,33,53,70,45;Seguridad, defensa y fuerza pública_con_----
+215;1,10,11,12,20,21,22,29,1,18,21,30,43;Mujer_con_Justicia
+216;13,23,34,39,42,13,16;Recreación y deporte_con_Comercio, industria y turismo
+217;13,23,34,39,42,45;Comercio, industria y turismo_con_----
+218;12,19,20,23,34,39,55,45;Bienestar y pobreza_con_----
+219;62,45;Rama Ejecutiva_con_----
+220;10,15,20,32,33,40,53,77,79,80,10,16,21,39,46,49,50,51,67;Participación ciudadana_con_Conflicto armado
+221;10,15,20,32,33,40,53,77,79,80,45;Conflicto armado_con_----
+222;11,48,45;Organismos de Control y Ministerio público_con_----
+223;2,12,19,22,26,11,20,25,40,48,49,50,51,73;Partidos y movimientos_con_Administración pública
+224;10,38,63,45;Rama Judicial_con_----
+225;12,19,20,23,34,39,55,1,4,28;Bienestar y pobreza_con_Familia
+226;13,16,45;Recreación y deporte_con_----
+227;2,12,19,22,26,7,13,16,18,19,24,66;Educación, cultura, ciencia y tecnología_con_Administración pública
+228;2,12,19,22,26,10,15,29,32,33,53,70;Seguridad, defensa y fuerza pública_con_Administración pública
+229;2,12,19,22,26,12,19,20,23,34,39,55;Bienestar y pobreza_con_Administración pública
+230;2,12,19,22,26,5,10,12,19,23,34,37,55,75;Administración pública_con_Economía
+231;62,10,38,63;Rama Ejecutiva_con_Rama Judicial
+232;13,23,34,39,42,26,41;Medio Ambiente_con_Comercio, industria y turismo
+233;1,10,11,12,20,21,22,29,18,19,20,34,37,39;Laboral_con_Justicia
+234;7,13,16,18,19,24,66,1,18,21,30,43;Educación, cultura, ciencia y tecnología_con_Mujer
+235;2,12,19,22,26,11,48;Organismos de Control y Ministerio público_con_Administración pública
+236;10,16,21,39,46,49,50,51,67,45;Participación ciudadana_con_----
+237;26,41,23,39;Profesiones_con_Medio Ambiente
+238;11,16,48,82,10,16,21,39,46,49,50,51,67;Participación ciudadana_con_Organización Electoral y elecciones
+239;18,19,20,34,37,39,10,38,63;Rama Judicial_con_Laboral
+240;1,10,11,12,20,21,22,29,2,18,23,26,72;Servicios Públicos_con_Justicia
+241;13,23,34,39,42,5,23,26,41,42;Minas y energía_con_Comercio, industria y turismo
+242;1,10,11,12,20,21,22,29,11,16,48,82;Justicia_con_Organización Electoral y elecciones
+243;2,12,19,22,26,11,48,64;Rama Legislativa_con_Administración pública
+244;12,19,20,23,34,39,55,2,18,23,26,72;Servicios Públicos_con_Bienestar y pobreza
+245;7,19,26,5,10,12,19,23,34,37,55,75;Comunicaciones, medios y tecnologías de la información_con_Economía
+246;13,23,34,39,42,23,39;Comercio, industria y turismo_con_Profesiones
+247;5,22,26,41;Agropecuario y agrícola_con_Medio Ambiente
+248;10,11,20,21,40,53,58,79,1,10,11,12,20,21,22,29;Implementación paz_con_Justicia
+249;10,11,20,21,40,53,58,79,11,20,25,40,48,49,50,51,73;Implementación paz_con_Partidos y movimientos
+250;2,12,19,22,26,10,11,20,21,40,53,58,79;Implementación paz_con_Administración pública
+251;5,10,12,19,23,34,37,55,75,23,34,37;Economía_con_Impuestos
+252;2,12,19,22,26,11,12,15,23,25,29,32,74;Administración pública_con_Corrupción
+253;13,23,34,39,42,19,40,68,71,76;Seguridad Social y salud_con_Comercio, industria y turismo
+254;26,41,5,23,26,41,42;Minas y energía_con_Medio Ambiente
+255;2,12,19,22,26,26,41;Medio Ambiente_con_Administración pública
+256;1,18,21,30,43,18,23,59,81;Mujer_con_Vivienda
+257;13,18,11,48,65;Política Internacional_con_Derechos de autor
+258;10,15,20,32,33,40,53,77,79,80,10,15,29,32,33,53,70;Conflicto armado_con_Seguridad, defensa y fuerza pública
+259;2,12,19,22,26,18,19,20,34,37,39;Laboral_con_Administración pública
+260;5,10,12,19,23,34,37,55,75,18,19,31,78;Tránsito y transporte_con_Economía
+261;2,12,19,22,26,10,15,20,32,33,40,53,77,79,80;Conflicto armado_con_Administración pública
+262;10,15,20,32,33,40,53,77,79,80,10,16,21,39,46,49,50,51,67;Conflicto armado_con_Participación ciudadana
+263;1,18,21,30,43,11,20,25,40,48,49,50,51,73;Mujer_con_Partidos y movimientos
+264;11,48,65,10,38,63;Política Internacional_con_Rama Judicial
+265;1,10,11,12,20,21,22,29,19,40,68,71,76;Justicia_con_Seguridad Social y salud
+266;7,13,16,18,19,24,66,11,48;Organismos de Control y Ministerio público_con_Educación, cultura, ciencia y tecnología
+267;18,19,20,34,37,39,1,18,21,30,43;Mujer_con_Laboral
+268;7,13,16,18,19,24,66,1,4,28;Familia_con_Educación, cultura, ciencia y tecnología
+269;5,10,12,19,23,34,37,55,75,19,40,68,71,76;Economía_con_Seguridad Social y salud
+270;12,19,20,23,34,39,55,10,15,20,32,33,40,53,77,79,80;Conflicto armado_con_Bienestar y pobreza
+271;18,19,20,34,37,39,18,19,31,78;Laboral_con_Tránsito y transporte

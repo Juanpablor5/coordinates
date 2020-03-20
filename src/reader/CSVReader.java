@@ -4,31 +4,32 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.ArrayList;
 
 public class CSVReader {
 
     public static void main(String[] args) {
 
-        String csvFile = "data/listapolicia.csv";
+        String csvFile = "data/cat.csv";
         BufferedReader br = null;
         String line = "";
         String cvsSplitBy = ";";
         
-        String format = "%-7s %-14s %s\n";
+        ArrayList<String> lista = new ArrayList<String>();
+        
         try {
 
             br = new BufferedReader(new FileReader(csvFile));
-            int i=1;
-            System.out.println("\t coordenadaX \t coordenadaY");
             while ((line = br.readLine()) != null) {
 
                 // use comma as separator
-                String[] coord = line.split(cvsSplitBy);
+                String[] separado = line.split(cvsSplitBy);
+                lista.add(separado[1]);
                 
-                System.out.printf(format, "e"+i,coord[2],coord[3]);
-                
-                i++;
             }
+            for (int i = 0; i < lista.size(); i++) {
+				System.out.println(lista.get(i));
+			}
 
         } catch (FileNotFoundException e) {
             e.printStackTrace();

@@ -32,7 +32,7 @@ public class Reader2 {
                 	distrito.add(null);
                 }
                 
-                if(line.contains("ESTACIÃ“N")) {
+                if(line.contains("ESTACIÓN")) {
                 	line = br.readLine();
                 	estacion.add(line);
 //                	System.out.println(line);
@@ -40,7 +40,7 @@ public class Reader2 {
                 	estacion.add(null);
                 }
                 
-                if(line.contains("DIRECCIÃ“N")) {
+                if(line.contains("DIRECCIÓN")) {
                 	line = br.readLine();
                 	direccion.add(line);
 //                	System.out.println(line);

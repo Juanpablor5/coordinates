@@ -33,8 +33,9 @@ public class JsonCreator {
 			while ((line = br.readLine()) != null) {				
 				String[] separado = line.split(cvsSplitBy);
 				String[] etiquetas =  separado[1].split(",");
-				cadena += "{\"id\":\""+ separado[0] +"\"";
-				cadena += ",\"etiquetas\":[{";
+				cadena += "{\"id\":\""+ separado[0] +"\",";
+				cadena += "\"categoría\":\""+ separado[2] +"\",";
+				cadena += "\"etiquetas\":[{";
 				for (int i = 0; i < etiquetas.length; i++) {					
 					cadena += "\"etiqueta"+(i+1)+"\":{";					
 					cadena += "\"id\":\""+Integer.parseInt(etiquetas[i])+"\",";					
@@ -43,8 +44,7 @@ public class JsonCreator {
 					if (i != etiquetas.length-1)
 						cadena += ",";
 				}
-				cadena += "}],";
-				cadena += "\"categoría\":\""+ separado[2] +"\"}";
+				cadena += "}]}";				
 				if (c != 270)
 					cadena += ",";
 				c++;

@@ -1,0 +1,156 @@
+[
+    {
+        "id": "H-001",
+        "descripcion": "Panquema",
+        "vendido": 0,
+        "muerte": "",
+        "imagen": "",
+        "partos": [
+            {
+                "id": "M-001",
+                "fecha": "13-11-2018"
+            },
+            {
+                "id": "H-285",
+                "fecha": "07-11-2019"
+            }
+        ]
+    },
+    {
+        "id": "H-002",
+        "descripcion": "Osea T",
+        "vendido": 0,
+        "muerte": "",
+        "imagen": "",
+        "partos": [
+            {
+                "id": "M-002",
+                "fecha": "22-11-2018"
+            },
+            {
+                "id": "H-9999",
+                "fecha": "24-12-2019"
+            }
+        ]
+    },
+    {
+        "id": "H-003",
+        "descripcion": "Harshaire",
+        "vendido": 0,
+        "muerte": "",
+        "imagen": "",
+        "partos": [
+            {
+                "id": "M-003",
+                "fecha": "10-12-2018"
+            },
+            {
+                "id": "M-004",
+                "fecha": "02-05-2020"
+            }
+        ]
+    },
+    {
+        "id": "H-004",
+        "descripcion": "Panquema",
+        "vendido": 0,
+        "muerte": "",
+        "imagen": "",
+        "partos": [
+            {
+                "id": "M-005",
+                "fecha": "20-12-2018"
+            },
+            {
+                "id": "H-9999",
+                "fecha": "10-05-2020"
+            }
+        ]
+    },
+    {
+        "id": "H-005",
+        "descripcion": "Amarilla topa",
+        "vendido": 0,
+        "muerte": "",
+        "imagen": "",
+        "partos": [
+            {
+                "id": "M-531",
+                "fecha": "03-01-2018"
+            }
+        ]
+    },
+    {
+        "id": "H-006",
+        "descripcion": "Amarilla cachim",
+        "vendido": 0,
+        "muerte": "",
+        "imagen": "",
+        "partos": [
+            {
+                "id": "H-9999",
+                "fecha": "01-02-2019"
+            },
+            {
+                "id": "H-9999",
+                "fecha": "25-11-2019"
+            }
+        ]
+    },
+    {
+        "id": "H-007",
+        "descripcion": "Negra topa",
+        "vendido": 0,
+        "muerte": "",
+        "imagen": "",
+        "partos": [
+            {
+                "id": "H-333",
+                "fecha": "09-04-2019"
+            },
+            {
+                "id": "H-9999",
+                "fecha": "10-03-2020"
+            }
+        ]
+    },
+    {
+        "id": "H-008",
+        "descripcion": "Amarilla",
+        "vendido": 0,
+        "muerte": "",
+        "imagen": "",
+        "partos": [
+            {
+                "id": "M-006",
+                "fecha": "07-07-2019"
+            }
+        ]
+    },
+    {
+        "id": "H-009",
+        "descripcion": "Oscar - Páez",
+        "vendido": 0,
+        "muerte": "20-03-2020",
+        "imagen": "",
+        "partos": [
+            {
+                "id": "H-334",
+                "fecha": "20-07-2019"
+            }
+        ]
+    },
+    {
+        "id": "H-010",
+        "descripcion": "Negra - Novilla al aumento, Páez",
+        "vendido": 0,
+        "muerte": "",
+        "imagen": "",
+        "partos": [
+            {
+                "id": "M-007",
+                "fecha": "19-08-2019"
+            }
+        ]
+    }
+]
